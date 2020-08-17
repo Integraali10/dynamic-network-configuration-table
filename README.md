@@ -3,9 +3,9 @@ Collection of rare deep learning solutions based on dynamic network configuratio
 
 | Article 	| Affiliation 	| Code 	| Smol Description 	| Key Words 	|
 |---------	|-------------	|------	|------------------	|-----------	|
+|[link to Google!](http://google.com)|             	|      	|                  	|           	|
 |         	|             	|      	|                  	|           	|
-|         	|             	|      	|                  	|           	|
-|          	                                                          |
+|          	|               |       |                   |             |
 |         	|             	|      	|                  	|           	|
 |         	|             	|      	|                  	|           	|
 |         	|             	|      	|                  	|           	|
