@@ -5,7 +5,7 @@ Collection of rare deep learning solutions based on dynamic network configuratio
 |---------	|-------------	|------	|------------------	|-----------	|
 |         	|             	|      	|                  	|           	|
 |         	|             	|      	|                  	|           	|
-|         	|             	|      	|                  	|           	|
+|          	|
 |         	|             	|      	|                  	|           	|
 |         	|             	|      	|                  	|           	|
 |         	|             	|      	|                  	|           	|
