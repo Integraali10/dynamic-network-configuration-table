@@ -1,5 +1,5 @@
 # Dynamic network configuration solutions
-My collection of deep learning solutions based on dynamic network configuration and attention mechanism. 
+My collection of deep learning solutions based on dynamic network configuration and attention mechanism. Awesome list of inspiration is [here](https://github.com/D-X-Y/Awesome-AutoDL)
 
 | Article 	| Affiliation/Country  	| Code 	| Smol Description 	| Key Words 	|
 |---------	|-------------	|------	|------------------	|-----------	|
