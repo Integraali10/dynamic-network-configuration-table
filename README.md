@@ -10,7 +10,7 @@ My collection of deep learning solutions based on dynamic network configuration 
 |![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[MixPath: A Unified Approach for One-shot Neural Architecture Search](https://arxiv.org/abs/2001.05887)|2020|China, Xiaomi|[code](https://github.com/xiaomi-automl/MixPath)||supernet, multi-path search space|
 |![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)[Graph Attention Networks](https://arxiv.org/abs/1710.10903) [[blog](https://petar-v.com/GAT/)]|2018|Europe, Canada|[code](https://github.com/PetarV-/GAT)| |graph, attention mechanism, graph-structured data|
 |![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)[Fully Convolutional Network with Multi-Step Reinforcement Learningfor Image Processing](https://arxiv.org/pdf/1811.04323.pdf) [[review](https://vitalab.github.io/article/2019/01/22/FCN_MultiStepRL_ImageProcessing.html)}|2018|Japan|||RL, pixel-wise agents, image restoration|
-|![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Balanced One-shot Neural Architecture Optimization](https://arxiv.org/abs/1909.10815)|2019|China, Microsoft Asia|-/-||supernet, neural architecture search|
+|![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)[Balanced One-shot Neural Architecture Optimization](https://arxiv.org/abs/1909.10815)|2019|China, Microsoft Asia|-/-||supernet, neural architecture search|
 
 Interesting popular articles:
 
