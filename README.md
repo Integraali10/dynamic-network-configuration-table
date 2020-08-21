@@ -10,3 +10,5 @@ My collection of deep learning solutions based on dynamic network configuration 
 |![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[MixPath: A Unified Approach for One-shot Neural Architecture Search](https://arxiv.org/abs/2001.05887) |China, Xiaomi|[code](https://github.com/xiaomi-automl/MixPath)||supernet, multi-path search space|
 |![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)[Graph Attention Networks](https://arxiv.org/abs/1710.10903) [[blog](https://petar-v.com/GAT/)]|Europe, Canada|[code](https://github.com/PetarV-/GAT)| |graph, attention mechanism, graph-structured data|
 
+Interesting popular articles:
+[Model ensembling with cuML and Scikit-learn](https://medium.com/rapids-ai/100x-faster-machine-learning-model-ensembling-with-rapids-cuml-and-scikit-learn-meta-estimators-d869788ee6b1)
